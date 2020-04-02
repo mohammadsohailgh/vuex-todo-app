@@ -1,4 +1,4 @@
-# community-app
+# todo-app
 
 > A Vue.js project
 
