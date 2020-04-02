@@ -32,6 +32,6 @@ export default {
 <style>
 body {
   font-family: Ubuntu;
-  columns: #555;
+  color: #555;
 }
 </style>
